@@ -2,7 +2,7 @@
 
 Tutorial :
 
-Git clone https://github.com/zippien/igfirst.git
+Git clone https://github.com/toolsku/test.git
 
 cd igfirst
 
