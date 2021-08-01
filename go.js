@@ -45,7 +45,7 @@ async function Execute(target, ig, bacod, latest_id)
     let enabled = 0 ;
     let checking = 0;
     let starting = 0;
-    console.log(`Pristt komen Re-Create by me ya BGSD\nSolo Playaaa No Need Another for Doing this shit\nCek bacod.txt Lu Dengan Pemisah  , |\n`)
+    console.log(`Pristt komen Re-Create by me ya BAGUS !!!\nSolo Playaaa No Need Another for Doing this shit\nCek bacod.txt Lu Dengan Pemisah  , |\n`)
     const user_name   = readlineSync.question("Username : ")
     const pass_word   = readlineSync.question("Password : ")
     var tar_get       = readlineSync.question("Target (Pakai , Jika lebih dari 1 target username) : ").split(',')
